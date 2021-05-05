@@ -10,5 +10,5 @@ Navigate and open Terminal and put the command ```gcc <FileName>```
 Launch the program
 
 ------------------
-### License
+## License
 This software is provided under the GNU GPL v3.
