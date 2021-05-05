@@ -12,7 +12,7 @@ Launch the program
 ------------------
 
 ## How donut actually work (In Math)
-#### ([![The following article is from a This Website ](https://www.a1k0n.net/2011/07/20/donut-math.html))
+#### ([The following article is from a This Website ](https://www.a1k0n.net/2011/07/20/donut-math.html))
 
 There has been a sudden resurgence of interest in my “donut” code from 2006, and I’ve had a couple requests to explain this one. It’s been five years now, so it’s not exactly fresh in my memory, so I will reconstruct it from scratch, in great detail, and hopefully get approximately the same result.
 
