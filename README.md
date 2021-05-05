@@ -5,5 +5,5 @@
 ## How to use
 ---------------
 1- Clone the repository in your local Computer 
-2- Navigate and open Terminal and put the command "gcc <FileName>"
+2- Navigate and open Terminal and put the command ```gcc <FileName>```
 3- Launch the program
